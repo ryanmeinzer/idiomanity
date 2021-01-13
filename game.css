@@ -3,21 +3,21 @@
   margin-bottom: 0.5rem;
   width: 100%;
   font-size: 1.8rem;
-  border: 0.1rem solid rgb(86, 165, 235, 0.25);
-  background-color: white;
+  border: 0.1rem solid #e4f2f0;
+  background-color: #70416d;
 }
 
 .choice-container:hover {
   cursor: pointer;
-  box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+  box-shadow: 0 0.4rem 1.4rem 0 #e4f2f0;
   transform: translateY(-0.1rem);
   transition: transform 150ms;
 }
 
 .choice-prefix {
   padding: 1.5rem 2.5rem;
-  background-color: #56a5eb;
-  color: white;
+  background-color: #99d8d0;
+  color: #70416d;
 }
 
 .choice-text {
@@ -26,11 +26,11 @@
 }
 
 .correct {
-  background-color: #28a745;
+  background-color: darkgreen;
 }
 
 .incorrect {
-  background-color: #dc3545;
+  background-color: darkred;
 }
 
 /* HUD */
@@ -52,21 +52,21 @@
 #progressBar {
   width: 20rem;
   height: 4rem;
-  border: 0.3rem solid #56a5eb;
+  border: 0.3rem solid #99d8d0;
   margin-top: 1.5rem;
 }
 
 #progressBarFull {
   height: 3.4rem;
-  background-color: #56a5eb;
+  background-color: #99d8d0;
   width: 0%;
 }
 
 /* LOADER */
 #loader {
-  border: 1.6rem solid white;
+  border: 1.6rem solid #70416d;
   border-radius: 50%;
-  border-top: 1.6rem solid #56a5eb;
+  border-top: 1.6rem solid #99d8d0;
   width: 12rem;
   height: 12rem;
   animation: spin 2s linear infinite;
