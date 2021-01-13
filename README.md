@@ -1,1 +1,3 @@
 # idiomanity
+
+// starting readme
