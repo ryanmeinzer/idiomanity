@@ -1,26 +1,26 @@
 [
     {
-        "question": "Inside which HTML element do we put the JavaScript??",
-        "choice1": "<script>",
-        "choice2": "<javascript>",
-        "choice3": "<js>",
-        "choice4": "<scripting>",
-        "answer": 1
+        "question": "The idiom, 'Turn a blind eye' means what?",
+        "choice1": "To not look at someone who is ugly",
+        "choice2": "To refuse to acknowledge a truth",
+        "choice3": "To get snake eyes when rolling dice",
+        "choice4": "To turn your eyelid inside out",
+        "answer": 2
     },
     {
-        "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
-        "choice1": "<script href='xxx.js'>",
-        "choice2": "<script name='xxx.js'>",
-        "choice3": "<script src='xxx.js'>",
-        "choice4": "<script file='xxx.js'>",
+        "question": "The idiom, 'Feeling under the weather' came from where?",
+        "choice1": "Weathermen",
+        "choice2": "Nurses",
+        "choice3": "Sailors",
+        "choice4": "Football",
         "answer": 3
     },
     {
-        "question": " How do you write 'Hello World' in an alert box?",
-        "choice1": "msgBox('Hello World');",
-        "choice2": "alertBox('Hello World');",
-        "choice3": "msg('Hello World');",
-        "choice4": "alert('Hello World');",
+        "question": "The idiom, 'Spill the beans' means what?",
+        "choice1": "To spill the beans, literally",
+        "choice2": "To forget your lunch",
+        "choice3": "To puke",
+        "choice4": "To leak a secret",
         "answer": 4
     }
 ]
