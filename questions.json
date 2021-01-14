@@ -1,26 +1,82 @@
 [
     {
-        "question": "The idiom, 'Turn a blind eye' means what?",
-        "choice1": "To not look at someone who is ugly",
-        "choice2": "To refuse to acknowledge a truth",
-        "choice3": "To get snake eyes when rolling dice",
-        "choice4": "To turn your eyelid inside out",
+        "question": "The idiom, 'raining cats and dogs' means what?",
+        "choice1": "cats and dogs are from heaven",
+        "choice2": "it's raining very heavily",
+        "choice3": "dogs are in heat for cats",
+        "choice4": "there are many stray cats and dogs",
         "answer": 2
     },
     {
-        "question": "The idiom, 'Feeling under the weather' came from where?",
+        "question": "The idiom, 'feeling under the weather' came from where?",
         "choice1": "Weathermen",
         "choice2": "Nurses",
-        "choice3": "Sailors",
-        "choice4": "Football",
+        "choice3": "Football",
+        "choice4": "Sailors",
+        "answer": 4
+    },
+    {
+        "question": "The idiom, 'when pigs fly' came from when?",
+        "choice1": "the 1800s",
+        "choice2": "1000 BC",
+        "choice4": "the 1600s",
+        "choice3": "1949",
         "answer": 3
     },
     {
-        "question": "The idiom, 'Spill the beans' means what?",
-        "choice1": "To spill the beans, literally",
-        "choice2": "To forget your lunch",
+        "question": "The idiom, 'spill the beans' means what?",
+        "choice1": "To leak a secret",
+        "choice2": "To spill the beans, literally",
         "choice3": "To puke",
-        "choice4": "To leak a secret",
+        "choice4": "To fart after eating beans",
+        "answer": 1
+    },
+    {
+        "question": "The idiom, 'turn a blind eye' means what?",
+        "choice1": "To not look at someone who is ugly",
+        "choice2": "To get snake eyes when rolling dice",
+        "choice3": "To refuse to acknowledge a truth",
+        "choice4": "To turn your eyelid inside out",
+        "answer": 3
+    },
+    {
+        "question": "The idiom, 'devil's advocate' was originally for what?",
+        "choice1": "to reference the paste of mayonnaise and mustard inside of deviled eggs",
+        "choice2": "to declare saints by the Roman Catholic Church",
+        "choice3": "to standardize the 'smorgasbord' option in brothels in the 1500s",
+        "choice4": "to reference the prophet Job, for his a tribulous relationship between Satan and God",
+        "answer": 2
+    },
+    {
+        "question": "The idiom, 'miss the boat' means what?",
+        "choice1": "to forget your wife",
+        "choice2": "to miss a chance",
+        "choice3": "to be ostracized",
+        "choice4": "to be left behind",
+        "answer": 2
+    },
+    {
+        "question": "The idiom, 'zip your lip' was originally what?",
+        "choice1": "tape your lips",
+        "choice2": "pierce your lips",
+        "choice3": "sew your lips",
+        "choice4": "button your lips",
         "answer": 4
+    },
+    {
+        "question": "The idiom, 'once in a blue moon' came from where?",
+        "choice1": "London, where English came from",
+        "choice2": "Babylonia during their charter of the sky",
+        "choice3": "America, where English came from",
+        "choice4": "Molson Coors' Czech Republic Headquarters in the 1800s",
+        "answer": 1
+    },
+    {
+        "question": "The idiom, 'piece of cake' was originally meant for who?",
+        "choice1": "fat ladies",
+        "choice2": "drunks",
+        "choice3": "slaves",
+        "choice4": "mice",
+        "answer": 3
     }
 ]
